@@ -5,3 +5,7 @@ GOOGLE_CLIENT_ID=xxx //Google OAuth Client ID
 GOOGLE_CLIENT_SECRET=xxx //Google OAuth Client Secret
 LINUXDO_CLIENT_ID=xxx //Linux.do OAuth Client ID
 LINUXDO_CLIENT_SECRET=xxx //Linux.do OAuth Client Secret
+ENABLE_LOCAL_AUTH = true
+ENABLE_GOOGLE_AUTH = false
+ENABLE_GITHUB_AUTH = false
+ENABLE_LINUXDO_AUTH = false
