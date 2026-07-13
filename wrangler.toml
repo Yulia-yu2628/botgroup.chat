@@ -1,3 +1,9 @@
+name = "botgroup"
+compatibility_date = "2026-07-13"
+main = "src/index.ts"
+
+[assets]
+directory = "./dist"
 [[kv_namespaces]]
 binding = "bgkv"
 id = "cbd11575c3504e6bb043c1c250d2f7ed"
