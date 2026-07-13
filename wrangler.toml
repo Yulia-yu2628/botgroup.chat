@@ -1,6 +1,5 @@
 name = "botgroup"
 compatibility_date = "2026-07-13"
-main = "src/index.ts"
 
 [assets]
 directory = "./dist"
